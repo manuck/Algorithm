@@ -7,6 +7,6 @@ def selectionSort(a):
         a[i], a[min] = a[min], a[i]
 
 
-a = [19, 12, 8, 4, 23, 17]
+a = [67, 39, 16, 49, 60, 28, 8, 85, 89, 11]
 selectionSort(a)
 print(a)

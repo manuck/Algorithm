@@ -1,6 +1,7 @@
 import sys
 sys.stdin = open("minmax_input.txt")
 
+
 n = input()
 result = 0
 
