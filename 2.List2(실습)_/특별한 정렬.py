@@ -1,7 +1,6 @@
 import sys
 sys.stdin = open("특별한 정렬_input.txt")
 
-
 def selsort(a):
     for i in range(0, len(a) - 1):
         min = i
@@ -13,8 +12,8 @@ def selsort(a):
                 if a[min] < a[j]:
                     min = j
         a[i], a[min] = a[min], a[i]
-
     return a[0:10]
+
 t = int(input())
 for i in range(int(t)):
     n = input()

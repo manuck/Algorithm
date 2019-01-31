@@ -27,7 +27,7 @@ for k in range(t):
 
     if ca > cb:
         print(f'#{k+1} B')
-    elif cb > ca:
+    elif ca < cb:
         print(f'#{k+1} A')
     else:
         print(f'#{k+1} 0')
