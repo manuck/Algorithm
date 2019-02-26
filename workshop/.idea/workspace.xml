@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="061be36a-c135-408e-8005-b547975bac77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../4.Stack1(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.Stack1(실습)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop(0214).py" beforeDir="false" afterPath="$PROJECT_DIR$/workshop(0214).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/workshop(0221).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="28" lean-forward="true" selection-end-line="31" selection-end-column="14" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -389,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/workshop(0221).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" lean-forward="true" selection-end-line="31" selection-end-column="14" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
