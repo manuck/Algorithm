@@ -2,31 +2,57 @@ import sys
 sys.stdin = open("0221_input.txt")
 
 
-for case in range(1):
-    n = int(input())
+def cal(number):
+    i = 0
+    stack = []
+    back = []
+    while i < len(number):
+
+        if number[i] == '*':
+            if len(stack) != 0:
+                while len(stack) != 0 and stack[0] == '*':
+                    back.append(stack.pop(0))
+            stack.insert(0, number[i])
+
+        elif number[i] == '+':
+            if len(stack) != 0:
+                while len(stack) != 0:
+                    back.append(stack.pop(0))
+            stack.insert(0, number[i])
+
+        elif number[i] == '(':
+            a = cal(number[i + 1:])
+            back += a[0]
+            i += a[1] + 1
+
+        elif number[i] == ')':
+            back.extend(stack)
+            return [back, i]
+
+        else:
+            back.append(number[i])
+
+        i += 1
+    back.extend(stack)
+    return back
+
+
+for case in range(1, 11):
+    n = input()
     a = list(input())
-    res = []
-    oper = []
-    print(a)
+    back = cal(a)
+    stack = []
 
-    for i in range(len(a)):
-        res.append(a[i])
-        if not a[i].isdecimal():
-            op = res.pop()
-            print(op)
-            if len(oper)==0:
-                oper.append(op)
+    for i in back:
 
-            if a[i] > oper[-1]:
-                oper.append(op)
-            else:
-                z = res.pop()
-                res.append(z)
+        if i == '+':
+            result = int(stack.pop(0)) + int(stack.pop(0))
+            stack.insert(0, result)
 
-    print(oper)
+        elif i == '*':
+            result = int(stack.pop(0)) * int(stack.pop(0))
+            stack.insert(0, result)
+        else:
+            stack.insert(0, i)
 
-    # for i in range(len(oper)):
-    #     op = oper.pop()
-    #     res.append(op)
-
-    print(res)
+    print(f'#{case} {result}')
