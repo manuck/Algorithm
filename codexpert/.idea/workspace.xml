@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28aa8b3d-ea9e-4bd2-aaef-12e73bee38b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../5.Stack2(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.Stack2(실습)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.Stack2(실습)/미로.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5.Stack2(실습)/미로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/창고다각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/창고다각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/workshop(0221).py" beforeDir="false" afterPath="$PROJECT_DIR$/../workshop/workshop(0221).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/창고다각형.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
-              <folding>
-                <element signature="e#400#410#0" />
-              </folding>
+            <state relative-caret-position="1051">
+              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -146,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -183,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.창고다각형">
+  <component name="RunManager" selected="Python.같은모양찾기2">
     <configuration name="마을위성사진" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,7 +325,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.창고다각형" />
         <item itemvalue="Python.같은모양찾기2" />
         <item itemvalue="Python.마을위성사진" />
       </list>
@@ -353,15 +344,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36911282" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36911282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,11 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/창고다각형.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
-          <folding>
-            <element signature="e#400#410#0" />
-          </folding>
+        <state relative-caret-position="1051">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
         </state>
       </provider>
     </entry>
