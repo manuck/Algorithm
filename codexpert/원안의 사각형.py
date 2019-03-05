@@ -3,6 +3,8 @@ r = int(input())
 
 x = 0
 for i in range(1, r+1):
-    x += ((r*r)-(i*i))**0.5
-
+    for j in range(1, r+1):
+        if r*r >= i*i + j*j:
+            x += 1
+x = x*4
 print(x)
