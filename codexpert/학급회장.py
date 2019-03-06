@@ -30,17 +30,17 @@ for i in range(n):
 st.append(st1)
 st.append(st2)
 st.append(st3)
-index=[]
+index = []
 for i in range(len(score)):
     if max(score) == score[i]:
-        index.append(i)
+        index.append(i+1)
 
 print(score)
 print(st)
 print(index)
 
 points = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-for j in index:
+for j in range(3):
     for i in range(n):
         if st[j][i] == 3:
             points[j][0]+=1
@@ -49,6 +49,11 @@ for j in index:
         elif st[j][i] == 1:
             points[j][2]+=1
 print(points)
+dic = {}
+for i in range(1,4):
+    dic[i]=points[i-1]
+print(dic)
+
 
 
 
