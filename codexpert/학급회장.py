@@ -50,10 +50,12 @@ for j in range(3):
             points[j][2]+=1
 print(points)
 dic = {}
-for i in range(1,4):
-    dic[i]=points[i-1]
+for i in range(1, 4):
+    dic[i] = points[i-1]
 print(dic)
-
+for key, val in dic.items():
+    co
+    key
 
 
 

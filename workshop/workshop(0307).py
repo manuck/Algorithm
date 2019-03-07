@@ -1,13 +1,11 @@
 import sys
-sys.stdin = open("이진탐색_input.txt")
-
+sys.stdin = open("0307_input.txt")
 
 def postorder_traverse(T):  # 후위순회
     if T:
         postorder_traverse(a[T][2])
         postorder_traverse(a[T][3])
         res.append(a[T][1])
-
 
 for case in range(1, 11):
     n = int(input())
@@ -29,6 +27,7 @@ for case in range(1, 11):
 
     a.insert(0, [0, 0, 0, 0])
     # print(a)
+
     postorder_traverse(1)
     # print(res)
     cal = []
@@ -58,4 +57,3 @@ for case in range(1, 11):
     print('#', end="")
     print(str(case), end=" ")
     print(int(cal[0]))
-
