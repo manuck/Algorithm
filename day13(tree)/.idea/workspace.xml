@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53869032-0b78-4b0b-bdb2-24c7a969584e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/노드의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/노드의 합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/이진 힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/이진 힙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/이진탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codexpert/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codexpert/학급회장.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert/학급회장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53869032-0b78-4b0b-bdb2-24c7a969584e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +12,7 @@
     <session id="-2122840835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -113,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="898" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -222,7 +214,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="898" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="898" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />

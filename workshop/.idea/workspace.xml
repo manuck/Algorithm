@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="061be36a-c135-408e-8005-b547975bac77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/노드의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/노드의 합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/이진 힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/이진 힙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/이진탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codexpert/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codexpert/학급회장.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert/학급회장.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day13(tree)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day13(tree)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,33 +18,34 @@
     <session id="18090541">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2413" />
+          <entry key="py" value="2427" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="2413" />
+          <entry key="Python" value="2427" />
         </counts>
       </usages-collector>
     </session>
@@ -65,20 +61,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workshop(0307).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="141">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/사다리2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0307_input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -116,10 +119,11 @@
         <option value="$PROJECT_DIR$/../7.Tree(실습)/이진탐색.py" />
         <option value="$PROJECT_DIR$/0307_input.txt" />
         <option value="$PROJECT_DIR$/workshop(0307).py" />
+        <option value="$PROJECT_DIR$/사다리2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -132,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.workshop(0307)">
+  <component name="RunManager" selected="Python.사다리2">
     <configuration name="이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="workshop(0228)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="사다리2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop(0228).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/사다리2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,19 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.workshop(0228)" />
       <item itemvalue="Python.workshop(0306_1)" />
       <item itemvalue="Python.workshop(0306_2)" />
       <item itemvalue="Python.workshop(0307)" />
       <item itemvalue="Python.이진탐색" />
+      <item itemvalue="Python.사다리2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.사다리2" />
         <item itemvalue="Python.workshop(0307)" />
         <item itemvalue="Python.이진탐색" />
         <item itemvalue="Python.workshop(0306_2)" />
         <item itemvalue="Python.workshop(0306_1)" />
-        <item itemvalue="Python.workshop(0228)" />
       </list>
     </recent_temporary>
   </component>
@@ -299,15 +303,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20619658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33881578" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33881578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24890351" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,6 +334,11 @@
           <url>file://$PROJECT_DIR$/workshop(0306_2).py</url>
           <line>28</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/workshop(0307).py</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -502,14 +510,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0307_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/workshop(0307).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="141">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/사다리2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
