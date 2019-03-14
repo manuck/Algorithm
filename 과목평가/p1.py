@@ -25,7 +25,7 @@ for case in range(1, t+1):
             for x in range(K):
                 rsum += a[i+K-1-x][j+x]
 
-            print(lsum, rsum)
+            # print(lsum, rsum)
 
             if rsum > lsum:
                 if res >= rsum-lsum:
