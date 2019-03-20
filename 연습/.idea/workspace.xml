@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/D3-장애물경주.py" description="t = int(input())" line="3" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="6eebf141-9983-4365-a558-7f62c4ed60a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.Tree(실습)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workshop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-두가지 빵.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-두가지 빵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../컴퓨팅/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../컴퓨팅/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,36 +18,36 @@
     <session id="-1060416575">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="24" />
-          <entry key="txt" value="8" />
+          <entry key="py" value="29" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="24" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="5998" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="7127" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="5998" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="7127" />
         </counts>
       </usages-collector>
     </session>
@@ -66,16 +67,52 @@
         <entry file="file://$PROJECT_DIR$/D3-의석이의 세로로 말해요.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D3-늘어지는 소리 만들기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D3-다솔이의 월급 상자.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D3-홀수짝수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D3-늘어지는 소리 만들기.py">
+        <entry file="file://$PROJECT_DIR$/D3-수의 새로운 연산.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/수의 새로운 연산_input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -83,8 +120,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D3-두가지 빵.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D3-단순 2진 암호코드.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -129,9 +175,14 @@
         <option value="$PROJECT_DIR$/D3-세제곱근.py" />
         <option value="$PROJECT_DIR$/D3-최대 성적표.py" />
         <option value="$PROJECT_DIR$/D3-건초더미.py" />
-        <option value="$PROJECT_DIR$/D3-두가지 빵.py" />
         <option value="$PROJECT_DIR$/D3-의석이의 세로로 말해요.py" />
         <option value="$PROJECT_DIR$/D3-늘어지는 소리 만들기.py" />
+        <option value="$PROJECT_DIR$/D3-다솔이의 월급 상자.py" />
+        <option value="$PROJECT_DIR$/D3-홀수짝수.py" />
+        <option value="$PROJECT_DIR$/수의 새로운 연산_input.txt" />
+        <option value="$PROJECT_DIR$/D3-수의 새로운 연산.py" />
+        <option value="$PROJECT_DIR$/D3-단순 2진 암호코드.py" />
+        <option value="$PROJECT_DIR$/D3-두가지 빵.py" />
       </list>
     </option>
   </component>
@@ -167,6 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workshop" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -181,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D3-늘어지는 소리 만들기">
-    <configuration name="D3-의석이의 세로로 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.D3-두가지 빵">
+    <configuration name="D3-다솔이의 월급 상자" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="연습" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,7 +246,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-의석이의 세로로 말해요.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-다솔이의 월급 상자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D3-수의 새로운 연산" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="연습" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-수의 새로운 연산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D3-민석이의 과제체크" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="D3-두가지 빵" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="연습" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,7 +309,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-민석이의 과제체크.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-두가지 빵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D3-단순 2진 암호코드" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="연습" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-단순 2진 암호코드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D3-세제곱근" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="D3-홀수짝수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="연습" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,7 +414,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-세제곱근.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-홀수짝수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -456,17 +550,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.D3-세제곱근" />
-      <item itemvalue="Python.D3-민석이의 과제체크" />
-      <item itemvalue="Python.D3-의석이의 세로로 말해요" />
-      <item itemvalue="Python.D3-늘어지는 소리 만들기" />
+      <item itemvalue="Python.D3-다솔이의 월급 상자" />
+      <item itemvalue="Python.D3-홀수짝수" />
+      <item itemvalue="Python.D3-수의 새로운 연산" />
+      <item itemvalue="Python.D3-두가지 빵" />
+      <item itemvalue="Python.D3-단순 2진 암호코드" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.D3-늘어지는 소리 만들기" />
-        <item itemvalue="Python.D3-의석이의 세로로 말해요" />
-        <item itemvalue="Python.D3-민석이의 과제체크" />
-        <item itemvalue="Python.D3-세제곱근" />
+        <item itemvalue="Python.D3-두가지 빵" />
+        <item itemvalue="Python.D3-단순 2진 암호코드" />
+        <item itemvalue="Python.D3-수의 새로운 연산" />
+        <item itemvalue="Python.D3-홀수짝수" />
+        <item itemvalue="Python.D3-다솔이의 월급 상자" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +583,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -516,6 +612,11 @@
           <url>file://$PROJECT_DIR$/D3-비밀번호.py</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/D3-단순 2진 암호코드.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -697,24 +798,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3-두가지 빵.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D3-의석이의 세로로 말해요.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/D3-늘어지는 소리 만들기.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-다솔이의 월급 상자.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workshop/workshop(0220).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수의 새로운 연산_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-단순 2진 암호코드.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-두가지 빵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-홀수짝수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-수의 새로운 연산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
