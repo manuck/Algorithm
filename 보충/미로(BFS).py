@@ -26,7 +26,8 @@ for case in range(1):
     N = int(input())
     maze = []
     for i in range(16):
-        maze.append(list(map(int, list(input()))))
+        maze.append(list(map(int, input())))
+        print(maze[i])
     visited = [[0 for _ in range(16)] for _ in range(16)]
     # print(maze)
     # print(visited)

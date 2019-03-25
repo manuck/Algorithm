@@ -18,7 +18,7 @@ for case in range(1):
         num = i-1
         for j in range(1, n):
             arr[j][i] = num + i
-            num += num + j 
+            num += j
 
     for i in range(n):
         print(arr[i])

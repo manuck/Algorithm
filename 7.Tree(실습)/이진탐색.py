@@ -32,3 +32,15 @@ for case in range(1, t+1):
     print(li[1], end=" ")
     print(li[V//2])
 
+s=[]
+while len(n) != 0 :
+    mergeSort(n)
+    n1 = n.pop(0)
+    n2 = n.pop(0)
+    s.append(n1 + n2)
+    if len(n) == 0 :
+        break
+    else :
+        n = [n1 + n2] + n
+print(s)
+print(sum(s))
