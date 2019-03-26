@@ -64,5 +64,6 @@ for case in range(1, t+1):
         data.append(i)
     a = [0] * NMAX
     backtrack(a, 0, n, 0)
-    print(f'#{case} {min}')
+    print(min)
+    # print(f'#{case} {min}')
 
