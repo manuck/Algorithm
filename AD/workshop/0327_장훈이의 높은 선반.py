@@ -2,7 +2,7 @@ import sys
 sys.stdin = open("input(0327_2).txt")
 
 def powerset(n, k, sum): # n: 원소의 갯수, k: 현재depth
-    global b, res
+    global res
     if sum >= res: return     # 가지치기
     if n == k:      # basis part
         sol = 0

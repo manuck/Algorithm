@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7d5e6db-c01e-457a-9cc8-24cf2eb16ccc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../1.Start1(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.Start1(실습)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.Start1(실습)/이진수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1.Start1(실습)/이진수2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0321_암호코드 스캔.py" beforeDir="false" afterPath="$PROJECT_DIR$/0321_암호코드 스캔.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0321_정식이의 은행업무.py" beforeDir="false" afterPath="$PROJECT_DIR$/0321_정식이의 은행업무.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/B6-더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/B6-더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/B7-나무 자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/B7-나무 자르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/B7_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/B7_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/베이비진 게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/컨테이너 운반.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/화물 도크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3(반복, 재귀)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3(반복, 재귀)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0327_장훈이의 높은 선반.py" beforeDir="false" afterPath="$PROJECT_DIR$/0327_장훈이의 높은 선반.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../보충/미로(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/../../보충/미로(DFS).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../연습/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../연습/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../컴퓨팅/조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../컴퓨팅/조합.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,46 +25,47 @@
     <session id="-1310762511">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="12" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="9" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="5505" />
+          <entry key="py" value="6366" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="5505" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="6366" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0321_정식이의 은행업무.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../day3(반복, 재귀)/순열.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -80,17 +82,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0321_암호코드 스캔.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1052">
+            <state relative-caret-position="2280">
               <caret line="120" column="36" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0327_최적 경로.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state relative-caret-position="589">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -99,7 +101,25 @@
         <entry file="file://$PROJECT_DIR$/0327_장훈이의 높은 선반.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+              <caret selection-end-line="1" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0328_최대 상금.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input(0328).txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -141,8 +161,12 @@
         <option value="$PROJECT_DIR$/0320_암호.py" />
         <option value="$PROJECT_DIR$/0321_암호코드 스캔.py" />
         <option value="$PROJECT_DIR$/0327_최적 경롤.py" />
-        <option value="$PROJECT_DIR$/0327_장훈이의 높은 선반.py" />
         <option value="$PROJECT_DIR$/0327_최적 경로.py" />
+        <option value="$PROJECT_DIR$/0327_장훈이의 높은 선반.py" />
+        <option value="$PROJECT_DIR$/input(0328).txt" />
+        <option value="$PROJECT_DIR$/0328_최대 상금.py" />
+        <option value="$PROJECT_DIR$/../../컴퓨팅/조합.py" />
+        <option value="$PROJECT_DIR$/../day3(반복, 재귀)/순열.py" />
       </list>
     </option>
   </component>
@@ -188,8 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0327_최적 경로">
-    <configuration name="0321_정식이의 은행업무" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.순열">
+    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../day3(반복, 재귀)" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0321_정식이의 은행업무.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../day3(반복, 재귀)/순열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="workshop(0320)_암호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0328_최대 상금" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +330,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\노승만\Algorithm\AD\workshop\0320_암호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0328_최대 상금.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="조합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../컴퓨팅" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../컴퓨팅/조합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,17 +361,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.workshop(0320)_암호" />
-      <item itemvalue="Python.0321_정식이의 은행업무" />
       <item itemvalue="Python.0327_최적 경로" />
       <item itemvalue="Python.0327_장훈이의 높은 선반" />
+      <item itemvalue="Python.0328_최대 상금" />
+      <item itemvalue="Python.순열" />
+      <item itemvalue="Python.조합" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0327_최적 경로" />
+        <item itemvalue="Python.순열" />
+        <item itemvalue="Python.조합" />
+        <item itemvalue="Python.0328_최대 상금" />
         <item itemvalue="Python.0327_장훈이의 높은 선반" />
-        <item itemvalue="Python.0321_정식이의 은행업무" />
-        <item itemvalue="Python.workshop(0320)_암호" />
+        <item itemvalue="Python.0327_최적 경로" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +394,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41239315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,13 +420,7 @@
     <entry file="file://$PROJECT_DIR$/input(0320).txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7698">
-          <caret line="3828" column="87" selection-start-line="3827" selection-start-column="60" selection-end-line="3828" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../sample_input.txt" />
     <entry file="file://$PROJECT_DIR$/0321_정식이의 은행업무.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -391,6 +432,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
           <caret line="71" column="18" selection-start-line="57" selection-start-column="4" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0321_암호코드 스캔.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="120" column="36" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0327_최적 경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -408,24 +463,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0321_암호코드 스캔.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1052">
-          <caret line="120" column="36" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0327_장훈이의 높은 선반.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret selection-end-line="1" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0327_최적 경로.py">
+    <entry file="file://$PROJECT_DIR$/input(0328).txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0328_최대 상금.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../컴퓨팅/조합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day3(반복, 재귀)/순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>

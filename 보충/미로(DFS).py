@@ -4,7 +4,7 @@ sys.stdin = open("미로_input.txt")
 dx = [1, 0, -1, 0]
 dy = [0, 1, 0, -1]
 
-def bfs(x, y):
+def dfs(x, y):
     maze[y][x] = 9  # 방문표시
 
     for i in range(4):

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eebf141-9983-4365-a558-7f62c4ed60a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AD/workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AD/workshop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-수의 새로운 연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-수의 새로운 연산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../컴퓨팅/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../컴퓨팅/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AD/day3(반복, 재귀)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AD/day3(반복, 재귀)/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,24 +14,24 @@
     <session id="-1060416575">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.3" value="7" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="32" />
+          <entry key="py" value="33" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="32" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -99,11 +96,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D3-태혁이의 사랑은 타이밍.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D3-안경이없어.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -201,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,6 +222,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D3-태혁이의 사랑은 타이밍">
+  <component name="RunManager" selected="Python.D3-안경이없어">
     <configuration name="D3-태혁이의 사랑은 타이밍" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="연습" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -580,8 +586,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.D3-태혁이의 사랑은 타이밍" />
         <item itemvalue="Python.D3-안경이없어" />
+        <item itemvalue="Python.D3-태혁이의 사랑은 타이밍" />
         <item itemvalue="Python.D3-두가지 빵" />
         <item itemvalue="Python.D3-단순 2진 암호코드" />
       </list>
@@ -822,13 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3-안경이없어.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D3-의석이의 세로로 말해요.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -889,6 +888,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3-안경이없어.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
