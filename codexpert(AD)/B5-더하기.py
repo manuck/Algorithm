@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("B6_input.txt")
+sys.stdin = open("B5_input.txt")
 
 def DFS(no): # a[no]번째 구슬을 상자에 담거나 담지 않는 모든 경우
     # 1] 리턴조건 : N번째이면 인쇄후 리턴

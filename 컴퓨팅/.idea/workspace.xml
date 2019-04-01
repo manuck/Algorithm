@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14fb2bf7-b791-4451-ab72-e15faf007b78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AD/workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AD/workshop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B4-건물세우기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/B6-건물세우기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B4_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B5-구슬 고르기1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/B4-구슬 고르기1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B6-더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/B5-더하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B6_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/B6_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B7-나무 자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/D2-나무 자르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B7_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/D2_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B8-소시지 공장.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/D3-소시지 공장.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codexpert(AD)/B8_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../codexpert(AD)/D3_input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +24,23 @@
     <session id="-1359252525">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="18" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -51,37 +61,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/조합2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/표준 입출력.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/연습문제2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <marker date="1553058714140" expanded="true" signature="399:404" ph="..." />
-                <marker date="1553058714140" expanded="true" signature="497:550" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/연습문제3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -91,10 +70,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/조합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/순열.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/배열최소합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/연습문제1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -195,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,10 +212,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AD/day3(반복, 재귀)" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -225,8 +231,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.연습문제2">
-    <configuration name="표준 입출력" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.순열">
+    <configuration name="조합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="컴퓨팅" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,28 +244,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/표준 입출력.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="중복순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="컴퓨팅" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/중복순열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/조합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,27 +266,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연습문제1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="비트연산예제1(정수를 이진수로)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="컴퓨팅" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/비트연산예제1(정수를 이진수로).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,21 +316,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="컴퓨팅" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.중복순열" />
-      <item itemvalue="Python.표준 입출력" />
-      <item itemvalue="Python.비트연산예제1(정수를 이진수로)" />
       <item itemvalue="Python.연습문제1" />
       <item itemvalue="Python.연습문제2" />
       <item itemvalue="Python.연습문제3" />
+      <item itemvalue="Python.조합" />
+      <item itemvalue="Python.순열" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.순열" />
+        <item itemvalue="Python.조합" />
         <item itemvalue="Python.연습문제2" />
         <item itemvalue="Python.연습문제1" />
         <item itemvalue="Python.연습문제3" />
-        <item itemvalue="Python.비트연산예제1(정수를 이진수로)" />
-        <item itemvalue="Python.표준 입출력" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +371,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23290598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23290598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,20 +405,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/조합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/배열최소합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/배열최소합_input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -473,20 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/순열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8075">
-          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../sample_input.txt" />
     <entry file="file://$PROJECT_DIR$/조합2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -498,6 +455,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/연습문제2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <marker date="1553058714140" expanded="true" signature="399:404" ph="..." />
+            <marker date="1553058714140" expanded="true" signature="497:550" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/연습문제1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -539,28 +514,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/연습문제1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/연습문제2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <marker date="1553058714140" expanded="true" signature="399:404" ph="..." />
-            <marker date="1553058714140" expanded="true" signature="497:550" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/연습문제3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/조합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/배열최소합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

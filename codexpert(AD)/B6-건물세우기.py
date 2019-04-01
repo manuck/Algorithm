@@ -54,3 +54,16 @@ a = [0] * NMAX
 backtrack(a, 0, n, 0)
 
 print(nmin)
+
+# def dfs(no, nsum):
+#     global min
+#     if nsum > nmin: return
+#     if no >= N:
+#         for i in range(n):
+#             print(rec[i], end=" ")
+#             print(nsum)
+#             if nsum<nmin : nmin = nsum
+#             return
+#     for i in range(N):
+#         if chk[i]: continue
+#
