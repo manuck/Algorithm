@@ -1,5 +1,5 @@
 import sys, time
-sys.stdin = open("B8_input.txt")
+sys.stdin = open("D6_input.txt")
 
 n = int(input())
 a = list(map(int,input().split()))

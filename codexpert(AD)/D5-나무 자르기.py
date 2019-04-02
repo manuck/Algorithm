@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("B7_input.txt")
+sys.stdin = open("D5_input.txt")
 
 # n, m = map(int, input().split())
 # a = list(map(int,input().split()))

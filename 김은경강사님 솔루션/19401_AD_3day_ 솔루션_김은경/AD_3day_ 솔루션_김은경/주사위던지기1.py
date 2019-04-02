@@ -1,5 +1,6 @@
 import sys
-sys.stdin = open("C4_input.txt")
+sys.stdin = open("input.txt")
+
 
 def DFS1(n):
     if n>N:
