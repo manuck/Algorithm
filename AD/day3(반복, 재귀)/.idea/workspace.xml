@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="027214c7-1b6c-4b37-8b2b-3fbc485e863e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../codexpert(AD)/D6_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/베이비진 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/베이비진 게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/전자카트.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/전자카트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/최소합.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/최소합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/컨테이너 운반.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/컨테이너 운반.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/화물 도크.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)/화물 도크.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/C4-주사위 던지기1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/C4-주사위 던지기1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/D2-나무 자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/D5-나무 자르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/D2_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/D5_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/D3-소시지 공장.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/D6-소시지 공장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codexpert(AD)/D3_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../codexpert(AD)/D3_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/NQueenbasic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/건물세우기베이직.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/로봇과자먹기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/상자포장하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/양팔저울베이직.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/주사위던지기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/테이프붙이기.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +27,11 @@
     <session id="-1731915489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../컴퓨팅/조합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -106,16 +112,7 @@
         <entry file="file://$PROJECT_DIR$/../../컴퓨팅/중복조합.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/주사위던지기1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -180,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -193,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,10 +201,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../codexpert(AD)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2.완전검색, 탐욕알고리즘(실습)" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
@@ -223,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.조합">
+  <component name="RunManager" selected="Python.순열">
     <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day3(반복, 재귀)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -397,11 +394,9 @@
       <item itemvalue="Python.조합2" />
       <item itemvalue="Python.조합3" />
       <item itemvalue="Python.주사위던지기1" />
-      <item itemvalue="Python.조합" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.조합" />
         <item itemvalue="Python.순열" />
         <item itemvalue="Python.주사위던지기1" />
         <item itemvalue="Python.조합3" />
@@ -432,7 +427,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,7 +439,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -528,6 +524,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../컴퓨팅/중복조합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/주사위던지기1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/연습2_순열.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -556,31 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../김은경강사님 솔루션/19401_AD_3day_ 솔루션_김은경/AD_3day_ 솔루션_김은경/주사위던지기1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../컴퓨팅/중복조합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/순열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../컴퓨팅/조합.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
