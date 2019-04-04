@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7d5e6db-c01e-457a-9cc8-24cf2eb16ccc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day3(반복, 재귀)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3(반복, 재귀)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.그래프(실습)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.그래프(실습)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.그래프(실습)/최소 신장 트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3.그래프(실습)/최소 신장 트리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5(그래프)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5(그래프)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/구슬고르기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/구슬고르기3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/그래프칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/도자기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/로봇.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/미사일.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/자동차경주대회베이직.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../김은경강사님 솔루션/AD_4day_솔루션_김음경/자외선피해가기.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,47 +29,57 @@
     <session id="-1310762511">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="35" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="31" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="py" value="13263" />
+          <entry key="py" value="13345" />
           <entry key="txt" value="418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="429" />
-          <entry key="Python" value="13263" />
+          <entry key="Python" value="13345" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0403_사람 네트워크2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0404_보급로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="12" selection-start-line="4" selection-end-line="39" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -110,10 +132,11 @@
         <option value="$PROJECT_DIR$/김슬기/문제2_6등분하기/p2.py" />
         <option value="$PROJECT_DIR$/김슬기/문제2_6등분하기/p2.txt" />
         <option value="$PROJECT_DIR$/0403_사람 네트워크2.py" />
+        <option value="$PROJECT_DIR$/0404_보급로.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -162,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0403_사람 네트워크2">
+  <component name="RunManager" selected="Python.0404_보급로">
     <configuration name="0403_사람 네트워크2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="문제1_상움직이기 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0404_보급로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workshop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/김슬기/문제1_상움직이기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\노승만\Algorithm\AD\workshop\김슬기\문제1_상움직이기\p1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0404_보급로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,19 +292,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.문제1_상움직이기 (1)" />
       <item itemvalue="Python.p1" />
       <item itemvalue="Python.p2" />
       <item itemvalue="Python.p3" />
       <item itemvalue="Python.0403_사람 네트워크2" />
+      <item itemvalue="Python.0404_보급로" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0404_보급로" />
         <item itemvalue="Python.0403_사람 네트워크2" />
         <item itemvalue="Python.p2" />
         <item itemvalue="Python.p1" />
         <item itemvalue="Python.p3" />
-        <item itemvalue="Python.문제1_상움직이기 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +322,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2008547" />
@@ -307,7 +330,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3475877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3475877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,6 +467,23 @@
     <entry file="file://$PROJECT_DIR$/김슬기/문제3_로봇과자먹기/p3.py" />
     <entry file="file://$PROJECT_DIR$/김슬기/문제2_6등분하기/p2.py" />
     <entry file="file://$PROJECT_DIR$/김슬기/문제1_상움직이기/p1.py" />
+    <entry file="file://$PROJECT_DIR$/../../codexpert(AD)/D4-로봇.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../codexpert(AD)/D3- 자외선 피해가기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0403_사람 네트워크2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0327_최적 경로.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -451,10 +491,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0403_사람 네트워크2.py">
+    <entry file="file://$PROJECT_DIR$/0404_보급로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="4" selection-end-line="39" selection-end-column="28" />
         </state>
       </provider>
     </entry>
