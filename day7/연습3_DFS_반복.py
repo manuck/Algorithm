@@ -22,7 +22,7 @@ sys.stdin = open("연습3_input.txt")
 V, E = map(int, input().split())
 temp = list(map(int, input().split()))
 
-
+print(temp)
 G = [[0 for i in range(V+1)] for j in range(V+1)] # 2차원 배열
 visited = [0 for i in range(V+1)]
 
